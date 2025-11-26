@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel AI Attendance",
+  "description": "Smart attendance system using Gemini Vision to identify enrolled students from photos or CCTV feeds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
